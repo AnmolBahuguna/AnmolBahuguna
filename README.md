@@ -31,7 +31,7 @@
 ---
 
 ### 📎 Project Highlight:
-- [🎓 Career Guidance Platform](https://github.com/AnmolBahuguna/CAREER-GUIDANCE-PLATFORM)
+- [🎓 Career Guidance Platform](https://careerguidanceweb.netlify.app/)
 
 ---
 
