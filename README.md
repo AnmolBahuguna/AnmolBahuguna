@@ -32,7 +32,7 @@
 
 ### 📎 Project Highlight:
 
-- [PORTFOLIO](https:https://anmolportfolio122.netlify.app/https://anmolportfolio122.netlify.app/)
+- [PORTFOLIO](https://anmolportfolio122.netlify.app/)
 - [🎓 Career Guidance Platform](https://careerguidanceweb.netlify.app/)
 
 
