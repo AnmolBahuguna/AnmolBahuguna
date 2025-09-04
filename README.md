@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on *Career Guidance Platform*
 - 🌱 Currently learning *Frontend Development, C/C++, Git & GitHub*
 - 💬 Ask me about *HTML, CSS, JavaScript, C, C++, Python*
-- ⚡ Fun fact: I code more than I scroll 😎
+
 
 ---
 
