@@ -33,7 +33,7 @@
 ### 📎 Project Highlight:
 
 - [PORTFOLIO](https://anmolport.netlify.app/)
-- [🎓 Career Guidance Platform](https://careerguidanceweb.netlify.app/)
+- [🎓 Career Guidance Platform]https://carrer-guide-ai.onrender.com/
 
 
 ---
