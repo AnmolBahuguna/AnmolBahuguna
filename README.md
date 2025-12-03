@@ -3,7 +3,10 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 
+- 👨‍💻 BCA Student & Full-Stack Developer
+⚡ Python Flask | Tailwind CSS | C/C++
+🎯 Creating smart web solutions
+
 
 ---
 
