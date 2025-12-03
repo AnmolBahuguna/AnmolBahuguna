@@ -3,11 +3,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 Currently working on **SmartCareer AI Platform** & **DynoType**
-- 🌱 Learning **Flask, Tailwind CSS, Advanced Python & Git**
-- 💻 Building with **Python Flask** for backend & **Tailwind CSS** for modern UI
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Flask, C/C++**
-- 🎯 Focus: Creating responsive web applications with clean architecture
+- 
 
 ---
 
