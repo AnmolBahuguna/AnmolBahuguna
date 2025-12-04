@@ -35,13 +35,6 @@
 
 ---
 
-### 🔥 Contribution Streak:
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=AnmolBahuguna&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</p>
 
 ---
 
@@ -62,7 +55,30 @@ AI-powered comprehensive platform helping students discover ideal career paths t
 
 **Tech Stack:** Python, Flask 2.3.3, HTML5, Tailwind CSS, JavaScript, OpenRouter API, Chart.js
 
----
+---🛡️ Phishing Website Detection System
+AI-powered cybersecurity tool that identifies and analyzes suspicious URLs to protect users from phishing attacks through intelligent pattern recognition and multi-layered verification.
+Key Features:
+
+Smart URL Pattern Analysis with suspicious keyword detection
+Real-time Domain Age Verification using WHOIS data
+SSL Certificate Validation & HTTPS verification
+Live Website Reachability testing
+Intelligent Risk Score Calculator with visual indicators
+Instant threat assessment with detailed security reports
+Modern responsive UI with real-time scanning feedback
+Multi-factor detection system (URL structure, domain history, certificates)
+
+Tech Stack: Python 3.7+, Flask, HTML5, Tailwind CSS, JavaScript, WHOIS API, SSL Libraries
+Detection Methods:
+
+Suspicious keyword scanning (login, bank, secure, verify)
+URL length & structure analysis
+Symbol pattern detection (@, multiple hyphens)
+Domain registration date verification
+Certificate authenticity checks
+HTTP response code analysis
+
+Perfect For: Cybersecurity awareness, educational projects, personal web safety, and learning threat detection fundamentals.
 
 #### ⌨️ [DynoType - Terminal Typing Speed Test](https://github.com/AnmolBahuguna/dynotype)
 Fast and interactive terminal-based typing speed test application written in C with real-time feedback and leaderboard system.
