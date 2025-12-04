@@ -395,35 +395,7 @@ Tools:        Figma (Design), Git (Version Control)
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnmolBahuguna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolBahuguna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnmolBahuguna&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolBahuguna&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="800"/>
-
-</div>
-
----
-
 ## 🎯 Current Focus & Goals
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔐 Cybersecurity
-- Deepening knowledge in ethical hacking
-- Studying penetration testing methodologies
-- Learning threat intelligence and analysis
-- Exploring web application security
-
-</td>
-<td width="50%">
 
 ### 🤖 AI/ML Development
 - Advanced AI/ML integration in web apps
