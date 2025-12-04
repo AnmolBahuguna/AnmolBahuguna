@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey! I'm Anmol Bahuguna
+# 👋 Hey there! I'm Anmol Bahuguna
 
-### 🚀 Full-Stack Developer | BCA Student | 
+### 🚀 Full-Stack Developer | BCA Student | Cybersecurity Enthusiast
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="450"/>
 
@@ -18,30 +18,22 @@
 
 ## 🎯 About Me
 
-Passionate **Full-Stack Developer** and **BCA Student** dedicated to crafting intelligent, secure, and scalable web applications. I specialize in building AI-powered solutions and cybersecurity tools that solve real-world problems.
+I'm a passionate **Full-Stack Developer** and **BCA Student** who loves turning ideas into reality through code. I specialize in building intelligent web applications that combine cutting-edge AI with robust security practices.
 
-```python
-class AnmolBahuguna:
-    def __init__(self):
-        self.role = "Full-Stack Developer"
-        self.education = "BCA Student"
-        self.location = "Ghaziabad, Uttar Pradesh, India"
-        self.interests = ["AI/ML", "Cybersecurity", "Web Development"]
-        self.current_focus = "Building secure, scalable applications"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+**What I Do:**
+- 🎓 Pursuing **Bachelor of Computer Applications** while building real-world projects
+- 💻 Developing **AI-powered web applications** using Python Flask and modern frameworks
+- 🔐 Creating **cybersecurity tools** focused on threat detection and web security
+- 🌱 Constantly exploring new technologies and best practices in web development
+- ⚡ Solving real-world problems with clean, scalable, and accessible code
 
-me = AnmolBahuguna()
-me.say_hi()
-```
+**Currently Working On:**
+- Building production-ready full-stack applications with Flask and FastAPI
+- Integrating AI/ML capabilities into web platforms
+- Exploring advanced cybersecurity concepts and ethical hacking
+- Contributing to open-source projects and learning from the community
 
-- 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
-- 💻 Building **AI-powered web applications** with Python Flask
-- 🔐 Passionate about **Cybersecurity** and threat detection systems
-- 🌱 Constantly learning and exploring cutting-edge technologies
-- ⚡ Creating smart solutions that make a real impact
-- 🎯 Open to collaborations and exciting projects
+**Fun Fact:** I believe the best code is the one that's never written – but when it is, it should be elegant, efficient, and make someone's life easier!
 
 ---
 
@@ -395,7 +387,35 @@ Tools:        Figma (Design), Git (Version Control)
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnmolBahuguna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolBahuguna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnmolBahuguna&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolBahuguna&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="800"/>
+
+</div>
+
+---
+
 ## 🎯 Current Focus & Goals
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Cybersecurity
+- Deepening knowledge in ethical hacking
+- Studying penetration testing methodologies
+- Learning threat intelligence and analysis
+- Exploring web application security
+
+</td>
+<td width="50%">
 
 ### 🤖 AI/ML Development
 - Advanced AI/ML integration in web apps
@@ -485,22 +505,22 @@ I'm always excited to connect with fellow developers, discuss new ideas, and exp
 
 <div align="center">
 
-### 🎨 Featured Repositories
+## 💭 Philosophy
 
-**👇 Check out my pinned repositories below for more exciting projects!**
-
-<br>
-
-> *"First, solve the problem. Then, write the code."* – John Johnson
+> *"Code is poetry written in logic. Make it elegant, make it purposeful, make it matter."*
 
 <br>
 
----
+### 🤝 Let's Build Something Amazing Together!
+
+Whether you're looking to collaborate on a project, need help with development, or just want to chat about technology – I'm always open to connecting with fellow developers and tech enthusiasts.
+
+<br>
 
 **Made with ❤️ and lots of ☕ by [Anmol Bahuguna](https://github.com/AnmolBahuguna)**
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" width="100%"/>
 
-⭐ **Star my repositories if you find them interesting!** ⭐
+⭐ **If you find my projects interesting, consider giving them a star!** ⭐
 
 </div>
