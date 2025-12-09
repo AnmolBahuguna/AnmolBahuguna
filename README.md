@@ -322,7 +322,7 @@ Build System:    GCC/Clang compatible
 
 ---
 
-### 🌐 [Personal Portfolio Website](https://anmolport.netlify.app/)
+### 🌐 [Personal Portfolio Website](https://portfolioanmolbahuguna.netlify.app/)
 
 <div align="center">
 
@@ -490,7 +490,7 @@ I'm always excited to connect with fellow developers, discuss new ideas, and exp
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-bahuguna-6728a633b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anmolport.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolioanmolbahuguna.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnmolBahuguna)
 [![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolbahuguna@example.com)
 
