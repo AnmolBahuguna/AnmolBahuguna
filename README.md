@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="450"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-bahuguna-6728a633b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anmolport.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolioanmolbahuguna.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnmolBahuguna)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnmolBahuguna&color=blueviolet&style=for-the-badge)
@@ -383,7 +383,7 @@ Design:       Responsive, Accessible (A11Y)
 Tools:        Figma (Design), Git (Version Control)
 ```
 
-**[🔗 Visit Website](https://anmolport.netlify.app/)**
+**[🔗 Visit Website(https://portfolioanmolbahuguna.netlify.app/)**
 
 ---
 
