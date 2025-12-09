@@ -458,11 +458,10 @@ Tools:        Figma (Design), Git (Version Control)
 | **Frontend** | HTML5, CSS3, JavaScript, Tailwind CSS, Responsive Design |
 | **Backend** | Python, Flask, FastAPI, RESTful APIs |
 | **Languages** | Python, C, C++, JavaScript |
-| **Databases** | SQLite, PostgreSQL, MySQL |
+| **Databases** | PostgreSQL |
 | **Tools** | Git, GitHub, VS Code, Postman, Figma |
 | **Deployment** | Render, Vercel, Netlify |
 | **Practices** | Responsive Design, Web Accessibility (A11Y), Clean Code |
-| **Security** | HTTPS/SSL, Input Validation, Threat Detection |
 | **AI/ML** | API Integration, NLP, AI-powered features |
 
 </div>
