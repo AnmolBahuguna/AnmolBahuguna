@@ -468,18 +468,6 @@ Tools:        Figma (Design), Git (Version Control)
 
 ---
 
-## 🏆 Achievements & Highlights
-
-- 🎓 Building real-world AI applications deployed on production
-- 🔐 Developed advanced phishing detection system with multi-layer analysis
-- ⚡ Created high-performance terminal application in C
-- 🌐 Portfolio website with 100% responsive design score
-- 📚 Self-taught full-stack development
-- 💻 Active open-source contributor
-- 🎯 Passionate about creating secure, accessible web applications
-
----
-
 ## 📫 Let's Connect & Collaborate!
 
 <div align="center">
@@ -504,17 +492,6 @@ I'm always excited to connect with fellow developers, discuss new ideas, and exp
 
 <div align="center">
 
-## 💭 Philosophy
-
-> *"Code is poetry written in logic. Make it elegant, make it purposeful, make it matter."*
-
-<br>
-
-### 🤝 Let's Build Something Amazing Together!
-
-Whether you're looking to collaborate on a project, need help with development, or just want to chat about technology – I'm always open to connecting with fellow developers and tech enthusiasts.
-
-<br>
 
 **Made with ❤️ and lots of ☕ by [Anmol Bahuguna](https://github.com/AnmolBahuguna)**
 
