@@ -2,9 +2,7 @@
 
 # 👋 Hey there! I'm Anmol Bahuguna
 
-### 🚀 Full-Stack Developer | BCA Student |
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="450"/>
+### 🚀 Full-Stack Developer | BCA Student |>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-bahuguna-6728a633b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolioanmolbahuguna.netlify.app/)
