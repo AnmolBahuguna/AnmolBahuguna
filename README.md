@@ -1,75 +1,70 @@
 <div align="center">
 
-# 👋 Hey there! I'm Anmol Bahuguna
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Anmol%20Bahuguna&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Creative%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%204x%20National%20Hackathon%20Finalist&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
-### 🚀 Full-Stack Developer | BCA Student |>
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-bahuguna-6728a633b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolioanmolbahuguna.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnmolBahuguna)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+BCA+%40+GEHU+Dehradun+%F0%9F%8E%93;Building+AI+Tools%2C+Security+Apps+%26+Clean+UIs+%F0%9F%9A%80;4x+National+Hackathon+Finalist+%F0%9F%8F%86;From+1%2C000%2B+Teams+to+Top+25+Nationally+%F0%9F%94%A5;Available+for+Freelance+%26+Collaboration+%E2%9C%85" alt="Typing SVG"/>
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AnmolBahuguna&color=blueviolet&style=for-the-badge)
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-bahuguna-6728a633b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anmolbahugunaportfolio1.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnmolBahuguna)
+[![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolbahuguna25@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AnmolBahuguna&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🧑‍💻 About Me
 
-I'm a passionate **Full-Stack Developer** and **BCA Student** who loves turning ideas into reality through code. I specialize in building intelligent web applications that combine cutting-edge AI with robust security practices.
+```python
+class AnmolBahuguna:
+    def __init__(self):
+        self.name        = "Anmol Bahuguna"
+        self.title       = "Full-Stack Developer & Creative Engineer"
+        self.education   = "BCA @ Graphic Era Hill University, Dehradun"
+        self.location    = "Dehradun, Uttarakhand, India 🇮🇳"
+        self.email       = "anmolbahuguna25@gmail.com"
+        self.stack       = ["React", "Next.js", "Python", "Flask", "Django", "FastAPI"]
+        self.languages   = ["Python", "JavaScript", "C", "C++"]
+        self.highlights  = [
+            "🏆 4x National Hackathon Finalist",
+            "🥈 1st Runner-Up — IIT Bombay DevFusion",
+            "🌐 Top 25 / 700+ Teams — Watch The Code 2026",
+            "🎯 Top 65 / 1000+ Teams — FORK IT @ IIIT Delhi",
+            "☁️  Oracle Cloud Infrastructure Certified",
+            "🤝 500+ LinkedIn Connections",
+        ]
+        self.available   = True  # Open to freelance & collaborations
 
-**What I Do:**
-- 🎓 Pursuing **Bachelor of Computer Applications** while building real-world projects
-- 💻 Developing **AI-powered web applications** using Python Flask and modern frameworks
-- 🔐 Creating **cybersecurity tools** focused on threat detection and web security
-- 🌱 Constantly exploring new technologies and best practices in web development
-- ⚡ Solving real-world problems with clean, scalable, and accessible code
+    def say_hi(self):
+        print("Let's build something that actually works. 🚀")
 
-**Currently Working On:**
-- Building production-ready full-stack applications with Flask and FastAPI
-- Integrating AI/ML capabilities into web platforms
-- Exploring advanced cybersecurity concepts and ethical hacking
-- Contributing to open-source projects and learning from the community
-
-**Fun Fact:** I believe the best code is the one that's never written – but when it is, it should be elegant, efficient, and make someone's life easier!
+me = AnmolBahuguna()
+me.say_hi()
+```
 
 ---
 
-## 🛠️ Technology Stack
+## 🏆 Hackathon Journey
+
+> **4x National Finalist** — From 1,000+ teams to Top 25 at India's premier institutions
 
 <div align="center">
 
-### 💻 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 📝 Programming Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🚀 Deployment & Hosting
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### 🔧 Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### ✨ Best Practices & Standards
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
-![Accessibility](https://img.shields.io/badge/Accessibility_(A11Y)-4A90E2?style=for-the-badge&logo=accessibility&logoColor=white)
+| 🏅 Award | 🎯 Event | 🏛️ Institution | 💡 What I Built |
+|---|---|---|---|
+| 🥈 **1st Runner-Up** | DevFusion Hackathon | **IIT Bombay** | Innovative full-stack solution |
+| 🌐 **Top 25** / 700+ Teams | Watch The Code 2026 | **GEHU Haldwani** | CIPR — 3D Globe Threat Visualizer |
+| 🎯 **Top 65** / 1000+ Teams | FORK IT Hackathon | **IIIT Delhi** | HealthPlate AI — OCR + NLP + ML |
+| 🏆 **National Finalist** | HackOut '24 | **IIT Guwahati** | Full-stack development showcase |
+| 🏅 **Top 50** Nationwide | SAARTHI '25 | **GEHU Dehradun** | National-level technical event |
 
 </div>
 
@@ -77,424 +72,196 @@ I'm a passionate **Full-Stack Developer** and **BCA Student** who loves turning 
 
 ## 🌟 Featured Projects
 
-### 🎓 [SmartCareer - AI Career Guidance Platform](https://carrer-guide-ai.onrender.com/)
+### 🎓 Career Guidance AI — ED-TECH × AI
 
-<div align="center">
+> **Live →** [carrer-guide-ai.onrender.com](https://carrer-guide-ai.onrender.com/) &nbsp;|&nbsp; `Python` `Flask` `Chart.js` `OpenRouter API`
 
-![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
-![AI Powered](https://img.shields.io/badge/AI_Powered-Yes-blue?style=flat-square)
-![Users](https://img.shields.io/badge/Target-Students-orange?style=flat-square)
+AI-powered platform helping students navigate career paths with intelligent assessments and dynamic 3D roadmaps.
 
-</div>
+- 🤖 **AI Assessments** — Personalized career path discovery
+- 🗺️ **3D Roadmaps** — Clear, visual learning progression
+- 💬 **AI Counselor Chatbot** — 24/7 NLP-powered guidance
+- 🎓 **College Database** — 100+ IITs, NITs, AIIMS profiles
+- 📄 **Resume Builder** — ATS-friendly, instant PDF download
+- 💰 **Salary Dashboard** — Real-time data for 15+ in-demand skills
 
-**🌐 Comprehensive AI-powered platform revolutionizing career guidance for students through intelligent assessments and personalized recommendations.**
-
-#### ✨ Standout Features
-
-🤖 **AI-Powered Career Assessment**
-- Intelligent quiz system with advanced scoring algorithms
-- Personalized career path recommendations based on skills and interests
-- Machine learning-driven analysis
-
-🗺️ **Interactive 3D Career Roadmap**
-- Visual career progression pathways
-- Step-by-step guidance for chosen careers
-- Interactive milestone tracking
-
-💬 **AI Career Counselor Chatbot**
-- 24/7 personalized career guidance
-- Natural language processing for student queries
-- Context-aware recommendations
-
-🎓 **College Database**
-- 100+ top Indian institutions (IITs, NITs, AIIMS, and more)
-- Detailed college profiles with admission criteria
-- Course-specific information
-
-📄 **Resume Builder**
-- Professional templates for different career stages
-- Instant PDF download functionality
-- ATS-friendly formatting
-
-💰 **Salary Insights Dashboard**
-- Real-time salary data for 15+ top skills
-- Industry-wise compensation trends
-- Career growth projections
-
-🎯 **Scholarship Finder**
-- Comprehensive database of government scholarships
-- Private scholarship opportunities
-- Eligibility criteria and application deadlines
-
-📚 **Learning Roadmaps**
-- Detailed career path guides for 10+ fields
-- Resource recommendations
-- Skill development timelines
-
-#### 🛠️ Technology Stack
-```
-Backend:         Python, Flask 2.3.3
-Frontend:        HTML5, Tailwind CSS, JavaScript
-AI Integration:  OpenRouter API
-Data Viz:        Chart.js
-Deployment:      Render
-Design:          Responsive, A11Y Compliant
-```
-
-**[🔗 Live Demo](https://carrer-guide-ai.onrender.com/)** • **[📂 Source Code](https://github.com/AnmolBahuguna)**
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Career_Guidance_AI-success?style=for-the-badge)](https://carrer-guide-ai.onrender.com/)
+[![Source](https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AnmolBahuguna)
 
 ---
 
-### 🛡️ [Phishing Detection System - Advanced Security Tool](https://phishing-detection-716i.onrender.com)
+### 🌐 CIPR System — Cyber Intelligence Pipeline & Radar
 
-<div align="center">
+> **Top 25 / 700+ Teams — Watch The Code 2026 @ GEHU Haldwani** &nbsp;|&nbsp; `Three.js` `React` `Node.js` `Socket.io`
 
-![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
-![Security](https://img.shields.io/badge/Category-Cybersecurity-red?style=flat-square)
-![Detection](https://img.shields.io/badge/Detection-Multi_Layer-yellow?style=flat-square)
+Real-time global cyber threat visualization on an interactive 3D Earth — built and placed nationally.
 
-</div>
+- 🌍 **3D Earth Visualization** — Animated attack arcs using Three.js
+- 🤖 **AI-Powered Analyst** — Automated threat intelligence briefs
+- 🎖️ **War Room Mode** — Live HUD overlays for operations teams
+- 🇮🇳 **India-Focused** — Regional threat monitoring dashboard
 
-**🔒 Advanced AI-powered cybersecurity application that identifies and analyzes suspicious URLs to protect users from phishing attacks using intelligent pattern recognition and multi-layered verification systems.**
-
-#### ✨ Core Security Features
-
-🔍 **Smart URL Analysis Engine**
-- Advanced pattern recognition algorithms
-- Suspicious keyword detection (login, bank, verify, secure, account, update)
-- URL structure and length analysis
-- Unusual character pattern detection
-
-⏰ **Domain Intelligence**
-- Real-time WHOIS data verification
-- Domain age and registration history
-- Registrar reputation analysis
-- Historical domain behavior tracking
-
-🔐 **SSL Certificate Validation**
-- Certificate authenticity verification
-- HTTPS implementation checks
-- Certificate expiration monitoring
-- Issuer validation
-
-🌐 **Live Reachability Testing**
-- Real-time website availability checks
-- HTTP response code analysis
-- Server response time monitoring
-- Redirect chain detection
-
-📊 **Risk Assessment Engine**
-- Multi-factor threat scoring algorithm
-- Visual risk indicators (Low, Medium, High, Critical)
-- Comprehensive security reports
-- Actionable security recommendations
-
-⚡ **Real-Time Scanning Interface**
-- Instant threat assessment feedback
-- Modern, responsive UI with Tailwind CSS
-- Progress indicators and status updates
-- Detailed analysis breakdown
-
-#### 🔬 Detection Methodology
-
-**Multi-Layer Analysis System:**
-
-1. **URL Structure Analysis**
-   - Length verification (phishing URLs often unusually long)
-   - Symbol pattern detection (@, --, unusual characters)
-   - Subdomain analysis
-   - IP address pattern recognition
-
-2. **Content-Based Detection**
-   - Suspicious keyword scanning
-   - Form field analysis
-   - Login page pattern detection
-   - Brand impersonation checks
-
-3. **Domain Verification**
-   - Registration date verification
-   - Domain age assessment (new domains = higher risk)
-   - WHOIS data integrity checks
-   - Historical domain reputation
-
-4. **Security Certificate Analysis**
-   - SSL/TLS certificate validation
-   - Certificate authority verification
-   - Encryption protocol checks
-   - Certificate chain validation
-
-5. **Behavioral Analysis**
-   - HTTP response pattern analysis
-   - Redirect behavior monitoring
-   - Server response characteristics
-   - Network traffic patterns
-
-#### 🛠️ Technology Stack
-```
-Backend:          Python 3.7+, Flask
-Frontend:         HTML5, Tailwind CSS, JavaScript
-Security APIs:    WHOIS API, SSL Certificate Libraries
-Analysis Engine:  Custom multi-factor threat detection
-Deployment:       Render
-Design:           Responsive, Accessible (A11Y)
-Performance:      Real-time scanning, Optimized algorithms
-```
-
-#### 🎯 Use Cases
-- **Personal Security**: Verify suspicious links before clicking
-- **Educational**: Learn about phishing detection techniques
-- **Corporate Training**: Cybersecurity awareness programs
-- **Research**: Study phishing patterns and trends
-- **Web Safety**: Protect against online threats
-
-**[🔗 Live Demo](https://phishing-detection-716i.onrender.com)** • **[📂 Source Code](https://github.com/AnmolBahuguna)**
+[![Source](https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AnmolBahuguna)
 
 ---
 
-### ⌨️ [DynoType - Terminal Typing Speed Test](https://github.com/AnmolBahuguna/dynotype)
+### 🛡️ PhishGuard — Phishing Detection System
 
-<div align="center">
+> **Live →** [phishing-detection-716i.onrender.com](https://phishing-detection-716i.onrender.com) &nbsp;|&nbsp; `Python` `ML` `Flask` `Tailwind CSS`
 
-![Language](https://img.shields.io/badge/Language-C-blue?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform-Cross_Platform-green?style=flat-square)
-![Performance](https://img.shields.io/badge/Performance-Optimized-brightgreen?style=flat-square)
+Multi-layered ML-powered phishing detection tool that identifies and blocks malicious links in real-time.
 
-</div>
+- 🔍 **URL Structure Analysis** — Length, symbols, IP patterns
+- 🌐 **Domain Intelligence** — WHOIS, domain age, registrar reputation
+- 🔐 **SSL Validation** — Certificate authenticity & HTTPS checks
+- 📊 **Risk Scoring** — Low / Medium / High / Critical ratings
 
-**⚡ Lightning-fast terminal-based typing speed test application built in C with real-time feedback, competitive leaderboard system, and cross-platform support.**
-
-#### ✨ Key Features
-
-🎯 **Multiple Difficulty Levels**
-- Easy mode: Common words and simple sentences
-- Medium mode: Mixed complexity with punctuation
-- Hard mode: Advanced vocabulary and complex structures
-
-⏱️ **Flexible Test Modes**
-- Quick Test: 10 seconds sprint
-- Standard Test: 30 seconds challenge
-- Professional Test: 60 seconds assessment
-- Infinite Mode: Practice without time limits
-
-🎨 **Real-Time Feedback System**
-- Color-coded accuracy indicators
-- Live character-by-character validation
-- Instant error highlighting
-- Visual progress tracking
-
-📈 **Performance Analytics**
-- Live WPM (Words Per Minute) calculation
-- Accuracy percentage tracking
-- Mistake counting and analysis
-- Performance trends
-
-🏆 **Local Leaderboard**
-- High score tracking by difficulty
-- Personal best records
-- Achievement system
-- Competitive ranking
-
-💻 **Cross-Platform Compatibility**
-- Windows support (Win32 API)
-- Unix/Linux support (Termios)
-- macOS compatibility
-- Terminal-agnostic operation
-
-⚡ **Performance Optimized**
-- Lightweight binary (<100KB)
-- Minimal memory footprint
-- Zero dependencies
-- Instant startup time
-
-#### 🛠️ Technology Stack
-```
-Language:        C (ANSI/C99)
-UI:              ANSI Escape Codes
-Input Handling:  Cross-platform I/O (Win32/Termios)
-Architecture:    Modular, Optimized
-Compatibility:   Windows, Linux, macOS
-Build System:    GCC/Clang compatible
-```
-
-**[📂 View Repository](https://github.com/AnmolBahuguna/dynotype)** • **[⬇️ Download](https://github.com/AnmolBahuguna/dynotype/releases)**
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-PhishGuard-red?style=for-the-badge)](https://phishing-detection-716i.onrender.com)
+[![Source](https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AnmolBahuguna)
 
 ---
 
-### 🌐 [Personal Portfolio Website](https://portfolioanmolbahuguna.netlify.app/)
+### ⌨️ DynoType — Terminal Typing Speed Tester
 
-<div align="center">
+> **Repo →** [github.com/AnmolBahuguna/dynotype](https://github.com/AnmolBahuguna/dynotype) &nbsp;|&nbsp; `C (C99)` `ANSI Escape Codes` `Linux / Windows / macOS`
 
-![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
-![Design](https://img.shields.io/badge/Design-Responsive-purple?style=flat-square)
-![Performance](https://img.shields.io/badge/Performance-A+-green?style=flat-square)
+Lightning-fast terminal typing test in pure C — zero dependencies, < 100KB binary, runs everywhere.
 
-</div>
+- 🎯 3 Difficulty Levels + 4 Test Modes (10s / 30s / 60s / Infinite)
+- 🎨 Real-time color-coded feedback & live WPM tracking
+- 🏆 Local leaderboard with personal bests & achievements
+- 💻 True cross-platform — Windows (Win32), Linux & macOS (Termios)
 
-**🎨 Modern, clean, and fully responsive portfolio website showcasing my projects, skills, technical expertise, and professional journey with elegant design and smooth user experience.**
-
-#### ✨ Highlights
-
-📱 **Fully Responsive**
-- Mobile-first design approach
-- Tablet and desktop optimized
-- Flexible grid layouts
-- Adaptive images and media
-
-⚡ **Performance Optimized**
-- Fast loading times (<2s)
-- Optimized assets and images
-- Minimal JavaScript overhead
-- Efficient CSS architecture
-
-🎨 **Modern UI/UX**
-- Clean, minimalist design
-- Smooth scroll animations
-- Interactive hover effects
-- Intuitive navigation
-
-📂 **Project Showcase**
-- Detailed project descriptions
-- Live demo links
-- Technology stack displays
-- GitHub repository links
-
-📧 **Contact Integration**
-- Functional contact form
-- Social media links
-- Direct email integration
-- Professional networking
-
-♿ **Accessibility Focused**
-- WCAG 2.1 compliant
-- Keyboard navigation support
-- Screen reader friendly
-- High contrast ratios
-
-#### 🛠️ Technology Stack
-```
-Frontend:     HTML5, CSS3, JavaScript
-Styling:      Custom CSS with Flexbox/Grid
-Animations:   CSS3 Transitions & Keyframes
-Hosting:      Netlify
-Performance:  Optimized assets, Lazy loading
-Design:       Responsive, Accessible (A11Y)
-Tools:        Figma (Design), Git (Version Control)
-```
-
-**[🔗 Visit Website(https://portfolioanmolbahuguna.netlify.app/)**
+[![View Repo](https://img.shields.io/badge/📂_View_Repo-DynoType-blue?style=for-the-badge&logo=github)](https://github.com/AnmolBahuguna/dynotype)
+[![Download](https://img.shields.io/badge/⬇️_Download-Releases-brightgreen?style=for-the-badge)](https://github.com/AnmolBahuguna/dynotype/releases)
 
 ---
 
-## 📊 GitHub Statistics
+### 🍽️ HealthPlate AI — Top 65 @ FORK IT, IIIT Delhi
+
+> `Python` `OpenCV` `NLP` `Prophet ML` `Blockchain`
+
+Tackled India's ₹45,000 Crore diet problem — OCR-powered food plate analyzer with ML-based personalized health insights and nutritional forecasting.
+
+[![Source](https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AnmolBahuguna)
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnmolBahuguna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolBahuguna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+### 💻 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnmolBahuguna&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
+### ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolBahuguna&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="800"/>
+### 🗣️ Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🚀 Deployment
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Current Focus & Goals
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔐 Cybersecurity
-- Deepening knowledge in ethical hacking
-- Studying penetration testing methodologies
-- Learning threat intelligence and analysis
-- Exploring web application security
-
-</td>
-<td width="50%">
-
-### 🤖 AI/ML Development
-- Advanced AI/ML integration in web apps
-- Natural language processing projects
-- Computer vision applications
-- ML model deployment strategies
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚀 Full-Stack Mastery
-- Building scalable microservices
-- RESTful API design patterns
-- Database optimization techniques
-- Modern DevOps practices
-
-</td>
-<td width="50%">
-
-### 🌟 Open Source & Community
-- Contributing to open-source projects
-- Building developer tools
-- Writing technical blog posts
-- Mentoring aspiring developers
-
-</td>
-</tr>
-</table>
-
----
-
-## 💡 Skills & Expertise
+## 📜 Certifications & Achievements
 
 <div align="center">
 
-| Category | Skills |
-|----------|--------|
-| **Frontend** | HTML5, CSS3, JavaScript, Tailwind CSS, Responsive Design |
-| **Backend** | Python, Flask, FastAPI, RESTful APIs |
-| **Languages** | Python, C, C++, JavaScript |
-| **Databases** | PostgreSQL |
-| **Tools** | Git, GitHub, VS Code, Postman, Figma |
-| **Deployment** | Render, Vercel, Netlify |
-| **Practices** | Responsive Design, Web Accessibility (A11Y), Clean Code |
-| **AI/ML** | API Integration, NLP, AI-powered features |
+| 🏅 | Certification / Achievement |
+|---|---|
+| ☁️ | **Oracle Cloud Infrastructure Certified** |
+| 🌍 | **Google Solution Challenge 2024** — Global Participant (GDG) |
+| 📘 | **Programming with JavaScript** — Meta × Coursera |
+| 🏆 | **Frontend Development Excellence Award** — Coding Foundation |
+| 🥇 | **Graphethon** — National Finalist |
+| 🤝 | **Open Source** — Active GitHub Contributor |
+| 👥 | **500+ LinkedIn Connections** |
 
 </div>
 
 ---
 
-## 📫 Let's Connect & Collaborate!
+## 📊 GitHub Stats
 
 <div align="center">
 
-I'm always excited to connect with fellow developers, discuss new ideas, and explore collaboration opportunities!
+<img src="https://github-readme-stats.vercel.app/api?username=AnmolBahuguna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolBahuguna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 
-<br>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-bahuguna-6728a633b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolioanmolbahuguna.netlify.app/)
+<img src="https://streak-stats.demolab.com?user=AnmolBahuguna&theme=tokyonight&hide_border=true" width="500" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolBahuguna&theme=tokyo-night&hide_border=true&area=true" width="800" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🎯 Currently Focused On
+
+<div align="center">
+
+| 🔐 Cybersecurity | 🤖 AI / ML | 🚀 Full-Stack | 🌟 Community |
+|---|---|---|---|
+| Ethical hacking & pen testing | AI/ML in web apps | Scalable APIs & microservices | Open-source contributions |
+| Threat intelligence & analysis | NLP & computer vision | Database optimization | Mentoring developers |
+| Web application security | ML model deployment | Modern DevOps practices | Technical writing |
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+**Open to:** `Freelance Projects` &nbsp;•&nbsp; `Startup Collabs` &nbsp;•&nbsp; `Open Source` &nbsp;•&nbsp; `Tech Discussions`
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-FF5722?style=for-the-badge)](https://anmolbahugunaportfolio1.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-bahuguna-6728a633b)
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolbahuguna25@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnmolBahuguna)
-[![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolbahuguna@example.com)
 
-<br>
+<br/>
 
-### 💬 Open to:
-✅ Freelance Projects | ✅ Collaboration Opportunities | ✅ Open Source Contributions | ✅ Tech Discussions
+> *"Best code = code that's never written. But when it IS written → make it elegant."*
 
-</div>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-<div align="center">
-
-
-**Made with ❤️ and lots of ☕ by [Anmol Bahuguna](https://github.com/AnmolBahuguna)**
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" width="100%"/>
-
-⭐ **If you find my projects interesting, consider giving them a star!** ⭐
+⭐ **If you find my projects useful, a star goes a long way!** ⭐
 
 </div>
