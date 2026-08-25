@@ -72,6 +72,24 @@ me.say_hi()
 
 ## 🌟 Featured Projects
 
+### 🏠 GoEazy — The Housing Standard for Uttarakhand
+
+> **Live →** [goeazy.vercel.app](https://goeazy.vercel.app/) &nbsp;|&nbsp; `React 19` `Vite 8` `Supabase` `Razorpay` `Tailwind + Framer Motion`
+
+Premium, high-performance real estate ecosystem tailored for students and professionals — built to destroy broker barriers in Uttarakhand's student housing market with a Red Dot award-tier aesthetic and industrial-grade engineering.
+
+- 🏆 **Broker-Free Transparency** — Direct landlord-to-student pipeline with verified listings
+- 💳 **Monetized Listing Flow** — Razorpay-integrated pay-to-go-live (₹199) with HMAC signature verification
+- 🔐 **Zero-Trust Security** — PostgreSQL Row Level Security + payment-gated Supabase Edge Functions
+- 🔑 **Master Admin Panel** — Role-based access control with service provider verification pipeline
+- 📱 **Mobile-First UX** — Instagram/Airbnb-style 2-column grid with Zero Layout Shift architecture
+- 🛡️ **Content Integrity Engine** — Anti-scraping, image-theft protection & developer-tools shielding
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-GoEazy-success?style=for-the-badge)](https://goeazy.vercel.app/)
+[![Source](https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AnmolBahuguna)
+
+---
+
 ### 🎓 Career Guidance AI — ED-TECH × AI
 
 > **Live →** [carrer-guide-ai.onrender.com](https://carrer-guide-ai.onrender.com/) &nbsp;|&nbsp; `Python` `Flask` `Chart.js` `OpenRouter API`
