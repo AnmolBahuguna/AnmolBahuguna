@@ -15,7 +15,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnmolBahuguna)
 [![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolbahuguna25@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AnmolBahuguna&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
