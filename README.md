@@ -33,7 +33,7 @@ class AnmolBahuguna:
         self.stack       = ["React", "Next.js", "Python", "Flask", "Django", "FastAPI"]
         self.languages   = ["Python", "JavaScript", "C", "C++"]
         self.highlights  = [
-            "🏆 4x National Hackathon Finalist",
+            "🏆 5x National Hackathon Finalist",
             "🥈 1st Runner-Up — IIT Bombay DevFusion",
             "🌐 Top 25 / 700+ Teams — Watch The Code 2026",
             "🎯 Top 65 / 1000+ Teams — FORK IT @ IIIT Delhi",
