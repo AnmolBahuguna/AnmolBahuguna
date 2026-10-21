@@ -252,7 +252,7 @@ Tackled India's ₹45,000 Crore diet problem — OCR-powered food plate analyzer
 |---|---|---|---|
 | Ethical hacking & pen testing | AI/ML in web apps | Scalable APIs & microservices | Open-source contributions |
 | Threat intelligence & analysis | NLP & computer vision | Database optimization | Mentoring developers |
-| Web application security | ML model deployment | Modern DevOps practices | Technical writing |
+| Web application security | ML model deployment | Modern DevOps practices | Technical writing 
 
 </div>
 
