@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header-glitch.svg" width="100%" alt="Anmol Bahuguna - UX-minded Full-Stack Developer"/>
+<img src="./header-glitch.svg" width="100%" alt="Anmol Bahuguna - UX-minded Full-Stack Developer"/>
 
 <br/>
 
@@ -17,9 +17,9 @@
 
 <br/>
 
-<img src="./assets/boot.svg" width="780" alt="Terminal boot sequence"/>
+<img src="./boot.svg" width="780" alt="Terminal boot sequence"/>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 </div>
 
@@ -53,14 +53,14 @@ me = AnmolBahuguna()
 me.say_hi()
 ```
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="./divider.svg" width="100%" alt=""/></div>
 
 ## 📡 Hackathon Radar
 
 > **5x National Finalist** — From 1,000+ teams to Top 25 at India's premier institutions. Wait for the sweep, each target lights up as the radar passes it. 🟢
 
 <div align="center">
-  <img src="./assets/radar.svg" width="780" alt="Animated radar showing 5 national hackathon finals"/>
+  <img src="./radar.svg" width="780" alt="Animated radar showing 5 national hackathon finals"/>
 </div>
 
 <details>
@@ -80,7 +80,7 @@ me.say_hi()
 
 </details>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="./divider.svg" width="100%" alt=""/></div>
 
 ## 🎨 How I Think About UX
 
@@ -105,12 +105,12 @@ me.say_hi()
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="./divider.svg" width="100%" alt=""/></div>
 
 ## 🪐 My Project Universe
 
 <div align="center">
-  <img src="./assets/orbit.svg" width="760" alt="Animated solar system of my projects"/>
+  <img src="./orbit.svg" width="760" alt="Animated solar system of my projects"/>
 </div>
 
 ## 🌟 Featured Projects
@@ -158,7 +158,7 @@ AI-powered platform helping students navigate career paths with intelligent asse
 Real-time global cyber threat visualization on an interactive 3D Earth — built and placed nationally.
 
 <div align="center">
-  <img src="./assets/globe.svg" width="720" alt="Animated globe with attack arcs"/>
+  <img src="./globe.svg" width="720" alt="Animated globe with attack arcs"/>
 </div>
 
 - 🌍 **3D Earth Visualization** — Animated attack arcs using Three.js
@@ -210,12 +210,12 @@ Tackled India's ₹45,000 Crore diet problem — OCR-powered food plate analyzer
 
 [![Source](https://img.shields.io/badge/📂_Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AnmolBahuguna)
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="./divider.svg" width="100%" alt=""/></div>
 
 ## ⚛️ Skill Reactor
 
 <div align="center">
-  <img src="./assets/reactor.svg" width="520" alt="Rotating rings of skills around a glowing core"/>
+  <img src="./reactor.svg" width="520" alt="Rotating rings of skills around a glowing core"/>
 </div>
 
 <details>
@@ -266,7 +266,7 @@ Tackled India's ₹45,000 Crore diet problem — OCR-powered food plate analyzer
 
 </details>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="./divider.svg" width="100%" alt=""/></div>
 
 ## 📜 Certifications & Achievements
 
@@ -302,7 +302,7 @@ Tackled India's ₹45,000 Crore diet problem — OCR-powered food plate analyzer
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="./divider.svg" width="100%" alt=""/></div>
 
 ## 🎯 Currently Focused On
 
@@ -349,7 +349,7 @@ $ echo "Hackathon rule #1: the demo always breaks 5 minutes before judging."
 
 </details>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="./divider.svg" width="100%" alt=""/></div>
 
 ## 📫 Let's Connect
 
